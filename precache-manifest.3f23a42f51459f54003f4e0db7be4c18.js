@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/totally-real-iq-test/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "1847f090c6acb730672c0b3c9d1e42a3",
+    "revision": "fbdd8cc54f335dcc9a6ee4a9e2e95499",
     "url": "/totally-real-iq-test/index.html"
   }
 ];

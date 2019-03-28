@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/totally-real-iq-test/precache-manifest.06e89e7a9d5203bc422eb01e217ad889.js"
+  "/totally-real-iq-test/precache-manifest.3f23a42f51459f54003f4e0db7be4c18.js"
 );
 
 workbox.clientsClaim();
