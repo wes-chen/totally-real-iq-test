@@ -4,10 +4,12 @@
   "homepage": "https://wes-chen.github.io/totally-real-iq-test",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "reactstrap": "^7.1.0"
   },
   "scripts": {
     "predeploy": "npm run build",
