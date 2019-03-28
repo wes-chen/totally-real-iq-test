@@ -1,14 +1,15 @@
 {
   "main.css": "/totally-real-iq-test/static/css/main.25fc9631.chunk.css",
-  "main.js": "/totally-real-iq-test/static/js/main.3703448c.chunk.js",
-  "main.js.map": "/totally-real-iq-test/static/js/main.3703448c.chunk.js.map",
+  "main.js": "/totally-real-iq-test/static/js/main.2fe3c9b7.chunk.js",
+  "main.js.map": "/totally-real-iq-test/static/js/main.2fe3c9b7.chunk.js.map",
   "runtime~main.js": "/totally-real-iq-test/static/js/runtime~main.29e0e0e5.js",
   "runtime~main.js.map": "/totally-real-iq-test/static/js/runtime~main.29e0e0e5.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/totally-real-iq-test/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/totally-real-iq-test/static/js/2.6efc73d3.chunk.js.map",
+  "static/css/2.e83fbf65.chunk.css": "/totally-real-iq-test/static/css/2.e83fbf65.chunk.css",
+  "static/js/2.e572fe0b.chunk.js": "/totally-real-iq-test/static/js/2.e572fe0b.chunk.js",
+  "static/js/2.e572fe0b.chunk.js.map": "/totally-real-iq-test/static/js/2.e572fe0b.chunk.js.map",
   "index.html": "/totally-real-iq-test/index.html",
-  "precache-manifest.3f23a42f51459f54003f4e0db7be4c18.js": "/totally-real-iq-test/precache-manifest.3f23a42f51459f54003f4e0db7be4c18.js",
+  "precache-manifest.601de4abc423aab7b678231e99e9eee1.js": "/totally-real-iq-test/precache-manifest.601de4abc423aab7b678231e99e9eee1.js",
   "service-worker.js": "/totally-real-iq-test/service-worker.js",
-  "static/css/main.25fc9631.chunk.css.map": "/totally-real-iq-test/static/css/main.25fc9631.chunk.css.map",
-  "static/media/logo.svg": "/totally-real-iq-test/static/media/logo.5d5d9eef.svg"
+  "static/css/2.e83fbf65.chunk.css.map": "/totally-real-iq-test/static/css/2.e83fbf65.chunk.css.map",
+  "static/css/main.25fc9631.chunk.css.map": "/totally-real-iq-test/static/css/main.25fc9631.chunk.css.map"
 }
